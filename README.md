@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, There I'm Feeljae Won!</h1>
-<h3 align="left">This is Back-end & Web Developer</h3>
+<h1 align="left">Hi There👋, This is Feeljae Won!</h1>
+<h3 align="left">A Back-end & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feeljae-won&label=Profile%20views&color=0e75b6&style=flat" alt="feeljae-won" /> </p>
 
